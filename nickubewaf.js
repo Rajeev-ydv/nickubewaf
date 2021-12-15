@@ -1,1 +1,1 @@
-console.log("hello world")
+<script>console.log("hello world")</script>
